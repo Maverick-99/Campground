@@ -43,5 +43,5 @@
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/20.png) </kbd>
 
-<kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/21.png) </kbd>
+<kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/21.jpg) </kbd>
 
