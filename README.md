@@ -39,68 +39,75 @@
 
 <h3 align="center"> Showing deatiled description of a campground </h3>
 
+<div align="center">
+
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/7.1.png) </kbd>
-<hr>
+<hr></div>
 
 <h3 align="center"> Showing location of the campground </h3>
 
-<kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/8.1.png) </kbd>
-<hr>
+<div align="center">
 
-<h3 align="center"> Review writing Section  </h3>
+<kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/8.1.png) </kbd>
+<hr></div>
+
+<h3 align="center"> User Can write reviews of the Campground  </h3>
+
+<div align="center">
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/9.1.png) </kbd>
-<hr>
+<hr></div>
 
 <h3 align="center"> Showing reviews by users </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/10.1.png) </kbd>
 <hr>
 
-<h3> align="center"> User Can add new Campground from here </h3>
+<h3 align="center"> User Can add new Campground from here </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/11.1.png) </kbd>
 <hr>
 
-<h3> align="center"> User Can also edit the details of a Campground </h3>
+<h3 align="center"> User Can also edit the details of a Campground </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/12.png) </kbd>
 <hr>
 
-<h3> align="center"> Flashing messages after successfully modifying the details </h3>
+<h3 align="center"> Flashing messages after successfully modifying the details </h3>
+
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/13.0.png) </kbd>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/13.1.png) </kbd>
 <hr>
 
-<h3> align="center"> User can't Edit/Create Campground until all sections are filled </h3>
+<h3 align="center"> User can't Edit/Create Campground until all sections are filled </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/14.1.png) </kbd>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/14.2.png) </kbd>
 <hr>
 
-<h3> align="center"> User need to be signed in order to create a Campground </h3>
+<h3 align="center"> User need to be signed in order to create a Campground </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/15.1.png) </kbd>
 <hr>
 
-<h3> align="center"> Details of Campgrounds stored in MongoDB cloud </h3>
+<h3 align="center"> Details of Campgrounds stored in MongoDB cloud </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/18.png) </kbd>
 <hr>
 
-<h3> align="center"> Details of Reviews stored in MongoDB cloud </h3>
+<h3 align="center"> Details of Reviews stored in MongoDB cloud </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/19.png) </kbd>
 <hr>
 
-<h3> align="center"> Details of sessions stored in MongoDB cloud </h3>
+<h3 align="center"> Details of sessions stored in MongoDB cloud </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/20.png) </kbd>
 <hr>
 
-<h3> align="center"> Details of Users stored in MongoDB cloud </h3>
+<h3 align="center"> Details of Users stored in MongoDB cloud </h3>
 
 <kbd> ![Campground](https://github.com/Maverick-99/Campground/blob/main/images/21.jpg) </kbd>
 
